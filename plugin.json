@@ -2,7 +2,7 @@
     "pluginmetadataversion": 1,
     "name": "kallsyms",
     "type": ["helper" ],
-    "api": ["python2"],
+    "api": ["python"],
     "description": "Parses output from /proc/kallsyms and applies symbols to the corresponding kernel BN database",
     "longdescription": "This plugin parses the output from /proc/kallsyms and applies symbols to the loaded BN database",
     "license": {
